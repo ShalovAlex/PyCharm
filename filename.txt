@@ -1,0 +1,4 @@
+with open("filename.txt") as myFile:
+for line in myFile:
+print(line)
+with op
